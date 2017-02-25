@@ -1,0 +1,29 @@
+{
+  "name": "koa-usematch",
+  "version": "0.1.0",
+  "description": "usematch renderer middleware for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmroanirgo/koa-usematch.git"
+  },
+  "keywords": [
+    "koa",
+    "usematch",
+    "mustache"
+  ],
+  "author": "cmroanirgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmroanirgo/koa-usematch/issues"
+  },
+  "homepage": "https://github.com/cmroanirgo/koa-usematch#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "debug": "^2.6.1",
+    "usematch": "latest"
+  }
+}
