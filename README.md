@@ -1,6 +1,6 @@
 # koa-usematch
 
-This provides middleware for koa to use the usematch templating engine.
+This provides middleware for koa to use the [usematch templating engine](https://www.npmjs.com/package/usematch).
 
 ## Installation
 
