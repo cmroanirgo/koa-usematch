@@ -29,8 +29,8 @@ var l = debug;
 var defaultSettings = {
 	cache: true,
 	viewExt: 'html',
-	views: 'views',
-	partials: 'partials'
+	//views: 'views',
+	//partials: 'partials'
 };
 
 /**
